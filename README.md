@@ -17,6 +17,13 @@
 
 [My Github](https://github.com/Kushwanth23/workshop1/edit/main/README.md)
 
-![samsung](https://media.wired.com/photos/6008b7cd103a85a519187c3e/191:100/w_1280,c_limit/Gear-galaxys21_plus_phantom_silver_front.jpg)
+![samsung](https://images.samsung.com/is/image/samsung/assets/in/about-us/brand/logo/mo/256_144_4.png?$512_N_PNG$)
+![lc](https://images.news18.com/ibnlive/uploads/2021/03/1617074876_rohit-sharma.jpg?im=FitAndFill,width=1200,height=900)
 
+sno|name
+--|--
+1|dkf
+2|jjdn
+
+@octocat :+1::+1::+1::+1::+1::+1: This PR looks great - it's ready to merge! :shipit:
 
