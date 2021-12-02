@@ -24,8 +24,9 @@
 
 sno|name
 --|--
-1|pani panta lani yadava
-2|jjdn
+1|pani panta lani yadava :slightly_smiling_face
+2|chusindi chalu inka pani chusko :sunglasses
+
 
 @octocat :+1::+1::+1::+1::+1::+1: This PR looks great - it's ready to merge! :shipit:
 
